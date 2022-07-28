@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/snoredude/trial_grpc_client/pb"
+	"github.com/snoredude/trial_grpc_server/pb"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
